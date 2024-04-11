@@ -4,7 +4,7 @@ const HomePage = () => {
       <div className="row m-5">
         <div className="col-lg-6">
           <div className="text-content">
-            <h2 className="text-center">Create Your Website    
+            <h2>Create Your Website    
                    
 </h2> <h1 className="zoom-in-out-box text-center zoom-in-out-box">₹6999</h1>
             <div className="offering">
@@ -25,7 +25,7 @@ const HomePage = () => {
 </a>
           </div>
         </div>
-        <div className="col-lg-6 d-flex justify-content-center align-items-center">
+        <div className="col-lg-5 d-flex justify-content-center align-items-center">
           <img src="/img.png" alt="" className="img-fluid" style={{width: "500px", height: "auto" }} />
         </div>
       </div>
